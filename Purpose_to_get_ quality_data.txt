@@ -1,0 +1,12 @@
+## Quality 
+#  year has some non integer value 
+#  year, convert data object to int
+#  Price has some non integer value 
+#  price, convert data object to int
+#  Km_driven has kms with comma
+#  Km_driven has nan (empty) & object to int
+#  Fuel_type has nan value (remove)
+#  Keep three words of car name 
+
+Main purpose was clean the quikr car dataset and get it quality clean dataset in csv file
+because data was some unstructured way as above details
